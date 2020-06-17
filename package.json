@@ -1,0 +1,26 @@
+{
+  "name": "mvc-njs",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "mvc for nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/one-two/mvc-njs-bp.git"
+  },
+  "keywords": [
+    "node",
+    "mvc",
+    "boilerplate"
+  ],
+  "author": "marc bosso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/one-two/mvc-njs-bp/issues"
+  },
+  "homepage": "https://github.com/one-two/mvc-njs-bp#readme"
+}
